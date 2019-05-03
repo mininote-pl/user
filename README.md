@@ -1,0 +1,2 @@
+# user
+Dane uzytkownika systemu
